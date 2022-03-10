@@ -32,7 +32,9 @@ Reproduzir a tela inicial do iFood usando o Reactive Native.
 
 1. Abra o emulador Android ou iOS;
 
-2. 
+2. No terminal, na pasta principal do projeto, execute o comando ```npm run start```
+
+Importante: você precisa ter o Expo instalado no seu emulador.
 
 ## Captura de tela
 
